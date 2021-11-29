@@ -3,10 +3,10 @@
 ## Basic idea (tl:dr)
 
 - use the [official guide](https://nzbget.net/installation-on-linux/)  with a few specific OSMC (Debian) changes as follows:
--- install into /opt
--- chown the nzbget folder (user: osmc)
--- autostart using systemd
--- (optional) require external drives to be available before starting: to be added
+- install into /opt
+- chown the nzbget folder (user: osmc)
+- autostart using systemd
+- (optional) require external drives to be available before starting: to be added
 
 ## Step by step (beginner friendly)
 
