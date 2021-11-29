@@ -89,5 +89,8 @@ And finally:
 sudo systemctl enable nzbget.service
 ```
 
+Restart the device and you can reach Nzbget from your computer browser at: IP_ADDRESS:6789 
+default user: nzbget
+default password: tegbzn6789
 
 
