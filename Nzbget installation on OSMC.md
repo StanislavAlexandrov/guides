@@ -94,3 +94,6 @@ default user: nzbget
 default password: tegbzn6789
 
 
+## Known issues:
+1. If nzbget fails to autostart ("start request repeated too quickly") the queue is probably corrupted. Deleting the contents of the queue directory might help. 
+
